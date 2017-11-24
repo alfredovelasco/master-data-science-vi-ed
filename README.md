@@ -1,10 +1,7 @@
 # master-data-science-vi-ed
 
-Hola a todos
+ This is a Serious work about Data Science.
 
-amiguitos mios
+We are now transforming the world, please stay tunned.
 
-Vamos a pasarlo bien !!
-
-yupiiii
-
+This is awesome!
